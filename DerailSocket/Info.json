@@ -1,0 +1,10 @@
+{
+  "Id": "DerailSocket",
+  "DisplayName": "Derail Socket",
+  "Author": "chase",
+  "Version": "1.0.0",
+  "ManagerVersion": "1.0.0",
+  "GameVersion": "1.0.0",
+  "AssemblyName": "DerailSocket.dll",
+  "EntryMethod": "DerailSocket.Main.Load"
+}
